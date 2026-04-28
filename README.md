@@ -24,18 +24,14 @@
   - 🎨 Me apasiona el **diseño gráfico** y la edición de foto y vídeo (Photoshop y Canva).
   - 🚀 Siempre con ganas de mejorar mis habilidades y afrontar nuevos retos.
 
-  <br>
-
 </div>
 
 <div align="center">
 
   `Estudiante de IT & Futuro Desarrollador`
   <br>
-
   `=========================`
   <br>
-
   `¯\_(ツ)_/¯`
 
 </div>
@@ -51,67 +47,58 @@
 
 </div>
 
-<div>
+---
 
-  ## 🛠️ &nbsp;Sistemas operativos
+## 🛠️ &nbsp;Sistemas operativos
 
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+</p>
 
-</div>
+---
 
-<div>
+## 🌐 &nbsp;Redes y virtualización
 
-  ## 🌐 &nbsp;Redes y virtualización
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cisco,virtualbox" />
+</p>
 
-  ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-  ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+---
 
-</div>
+## 💻 &nbsp;Programación
 
-<div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,html,css,mysql,vscode" />
+</p>
 
-  ## 💻 &nbsp;Programación
+---
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 🎨 &nbsp;Diseño y edición
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=photoshop,figma" />
+</p>
 
-<div>
+---
 
-  ## 🎨 &nbsp;Diseño y edición
+## 📊 &nbsp;Mi actividad
 
-  ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samu-Bm&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samu-Bm&layout=compact&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40" />
+</p>
 
-<div>
+---
 
-  ## 📊 &nbsp;Mi actividad
+## 📫 &nbsp;Contacto
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Samu-Bm&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
-  </p>
+<p align="center">
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samu-Bm&layout=compact&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages" />
-  </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Burgueño-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-burgue%C3%B1o-818668406/)
+[![Gmail](https://img.shields.io/badge/Gmail-burguenomunozsamuel@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burguenomunozsamuel@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Samu--Bm-181717?style=for-the-badge&logo=github)](https://github.com/Samu-Bm)
 
-</div>
-
-<div>
-
-  ## 📫 &nbsp;Contacto
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Burgueño-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-burgue%C3%B1o-818668406/)
-  [![Gmail](https://img.shields.io/badge/Gmail-burguenomunozsamuel@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burguenomunozsamuel@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-Samu--Bm-181717?style=for-the-badge&logo=github)](https://github.com/Samu-Bm)
-
-</div>
+</p>
