@@ -37,6 +37,7 @@
   <br>
 
   `¯\_(ツ)_/¯`
+
 </div>
 
 <div>
@@ -95,13 +96,13 @@
 
   ## 📊 &nbsp;Mi actividad
 
-  <a href="https://github.com/Samu-Bm">
-    <img width="450" height="170" align="center" alt="estadísticas" src="https://github-readme-stats.vercel.app/api?username=Samu-Bm&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Samu-Bm&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
+  </p>
 
-  <a href="https://github.com/Samu-Bm">
-    <img align="center" alt="lenguajes" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samu-Bm&layout=compact&theme=midnight-purple&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samu-Bm&layout=compact&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Top Languages" />
+  </p>
 
 </div>
 
