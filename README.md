@@ -51,7 +51,7 @@
 
 ## 🛠️ &nbsp;Sistemas operativos
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
 </p>
 
@@ -59,7 +59,7 @@
 
 ## 🌐 &nbsp;Redes y virtualización
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cisco,virtualbox" />
 </p>
 
@@ -67,7 +67,7 @@
 
 ## 💻 &nbsp;Programación
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,bash,html,css,mysql,vscode" />
 </p>
 
@@ -75,7 +75,7 @@
 
 ## 🎨 &nbsp;Diseño y edición
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=photoshop,figma" />
 </p>
 
