@@ -89,8 +89,16 @@
 
 <p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Burgueño-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-burgue%C3%B1o-818668406/)
-[![Gmail](https://img.shields.io/badge/Gmail-burguenomunozsamuel@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burguenomunozsamuel@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Samu--Bm-181717?style=for-the-badge&logo=github)](https://github.com/Samu-Bm)
+<a href="https://www.linkedin.com/in/samuel-burgue%C3%B1o-818668406/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Samuel_Burgueño-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:burguenomunozsamuel@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-burguenomunozsamuel@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Samu-Bm" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Samu--Bm-181717?style=for-the-badge&logo=github" />
+</a>
 
 </p>
