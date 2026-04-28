@@ -126,15 +126,3 @@
   [![GitHub Badge](https://img.shields.io/badge/-Samu--Bm-black?style=flat-square&logo=github)](https://github.com/Samu-Bm)
 
 </div>
-
-
-<div>
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="serpiente">
-</div>
-
-
-------
-
-Créditos: Samu-Bm
-
-Última edición: 28/04/2026
