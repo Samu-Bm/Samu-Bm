@@ -21,7 +21,7 @@
   - 🎓 He estudiado **SMR (Sistemas Microinformáticos y Redes)** en el **IES Siberia Extremeña**.
   - 🌱 Actualmente sigo estudiando y aprendiendo nuevas tecnologías.
   - 💻 Me interesa la **programación** y planeo estudiarla en profundidad.
-  - 🎨 Me apasiona el **diseño gráfico** y la edición de foto y vídeo (Photoshop, CapCut y Canva).
+  - 🎨 Me apasiona el **diseño gráfico** y la edición de foto y vídeo (Photoshop y Canva).
   - 🚀 Siempre con ganas de mejorar mis habilidades y afrontar nuevos retos.
 
   <br>
@@ -54,9 +54,9 @@
 
   ## 🛠️ &nbsp;Sistemas operativos
 
-  ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=flat&logo=windows)&nbsp;
-  ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=flat&logo=linux)&nbsp;
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-0D1117?style=flat&logo=ubuntu)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 </div>
 
@@ -64,8 +64,8 @@
 
   ## 🌐 &nbsp;Redes y virtualización
 
-  ![Cisco](https://img.shields.io/badge/-Cisco-0D1117?style=flat&logo=cisco)&nbsp;
-  ![VirtualBox](https://img.shields.io/badge/-VirtualBox-0D1117?style=flat&logo=virtualbox)
+  ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+  ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 </div>
 
@@ -73,12 +73,12 @@
 
   ## 💻 &nbsp;Programación
 
-  ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
-  ![Bash](https://img.shields.io/badge/-Bash-0D1117?style=flat&logo=gnubash)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=html5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=css3)&nbsp;
-  ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=flat&logo=mysql)&nbsp;
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -86,8 +86,8 @@
 
   ## 🎨 &nbsp;Diseño y edición
 
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=flat&logo=adobephotoshop)&nbsp;
-  ![Canva](https://img.shields.io/badge/-Canva-0D1117?style=flat&logo=canva)
+  ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
 
@@ -109,8 +109,8 @@
 
   ## 📫 &nbsp;Contacto
 
-  [![LinkedIn Badge](https://img.shields.io/badge/-Samuel_Burgueño-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-burgue%C3%B1o-818668406/)&nbsp;
-  [![Gmail Badge](https://img.shields.io/badge/-burguenomunozsamuel@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:burguenomunozsamuel@gmail.com)&nbsp;
-  [![GitHub Badge](https://img.shields.io/badge/-Samu--Bm-black?style=flat-square&logo=github)](https://github.com/Samu-Bm)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel_Burgueño-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-burgue%C3%B1o-818668406/)
+  [![Gmail](https://img.shields.io/badge/Gmail-burguenomunozsamuel@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burguenomunozsamuel@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-Samu--Bm-181717?style=for-the-badge&logo=github)](https://github.com/Samu-Bm)
 
 </div>
