@@ -5,8 +5,6 @@
 
 </div>
 
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Samu-Bm&color=blueviolet" alt="Visitas al perfil" />
   &nbsp;
@@ -14,7 +12,6 @@
     <img src="https://img.shields.io/github/followers/Samu-Bm?style=social" alt="Seguidores" />
   </a>
 </p>
-
 
 <div>
 
@@ -31,7 +28,6 @@
 
 </div>
 
-
 <div align="center">
 
   `Estudiante de IT & Futuro Desarrollador`
@@ -42,7 +38,6 @@
 
   `¯\_(ツ)_/¯`
 </div>
-
 
 <div>
 
@@ -55,7 +50,6 @@
 
 </div>
 
-
 <div>
 
   ## 🛠️ &nbsp;Sistemas operativos
@@ -66,17 +60,14 @@
 
 </div>
 
-
 <div>
 
   ## 🌐 &nbsp;Redes y virtualización
 
   ![Cisco](https://img.shields.io/badge/-Cisco-0D1117?style=flat&logo=cisco)&nbsp;
-  <span>Cisco Packet Tracer</span>&nbsp;
   ![VirtualBox](https://img.shields.io/badge/-VirtualBox-0D1117?style=flat&logo=virtualbox)
 
 </div>
-
 
 <div>
 
@@ -86,21 +77,19 @@
   ![Bash](https://img.shields.io/badge/-Bash-0D1117?style=flat&logo=gnubash)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=html5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=css3)&nbsp;
-  ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=flat&logo=mysql)
+  ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=flat&logo=mysql)&nbsp;
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code)
 
 </div>
-
 
 <div>
 
   ## 🎨 &nbsp;Diseño y edición
 
   ![Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=flat&logo=adobephotoshop)&nbsp;
-  ![Canva](https://img.shields.io/badge/-Canva-0D1117?style=flat&logo=canva)&nbsp;
-  <span>CapCut</span>
+  ![Canva](https://img.shields.io/badge/-Canva-0D1117?style=flat&logo=canva)
 
 </div>
-
 
 <div>
 
@@ -115,7 +104,6 @@
   </a>
 
 </div>
-
 
 <div>
 
