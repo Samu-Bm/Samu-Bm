@@ -57,14 +57,6 @@
 
 ---
 
-## 🌐 &nbsp;Redes y virtualización
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cisco,virtualbox" />
-</p>
-
-
----
-
 ## 💻 &nbsp;Programación
 
 <p align="left">
