@@ -26,6 +26,7 @@
   - 🎓 He estudiado **SMR (Sistemas Microinformáticos y Redes)** en el **IES Siberia Extremeña**.
   - 🌱 Actualmente sigo estudiando y aprendiendo nuevas tecnologías.
   - 💻 Me interesa la **programación** y planeo estudiarla en profundidad.
+  - 🎨 Me apasiona el **diseño gráfico** y la **edición de foto y vídeo**.
   - 🚀 Siempre con ganas de mejorar mis habilidades y afrontar nuevos retos.
 
   <br>
@@ -78,12 +79,15 @@
 <div>
 
   ## 📊 &nbsp;Mi actividad
+
   <a href="https://github.com/Samu-Bm">
     <img width="450" height="170" align="center" alt="estadísticas" src="https://github-readme-stats.vercel.app/api?username=Samu-Bm&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
+
   <a href="https://github.com/Samu-Bm">
     <img align="center" alt="lenguajes" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samu-Bm&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
+
 </div>
 
 
