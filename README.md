@@ -22,9 +22,8 @@
 
   ## 🧭 &nbsp;Sobre mí
 
-  - 👨‍💻 Soy **Samu-Bm** de **Badajoz, España**.
+  - 👨‍💻 Soy **Samuel** de **Badajoz, España**.
   - 🎓 He estudiado **SMR (Sistemas Microinformáticos y Redes)** en el **IES Siberia Extremeña**.
-  - 🐧 Me interesa especialmente **Linux y la administración de sistemas**.
   - 🌱 Actualmente sigo estudiando y aprendiendo nuevas tecnologías.
   - 💻 Me interesa la **programación** y planeo estudiarla en profundidad.
   - 🚀 Siempre con ganas de mejorar mis habilidades y afrontar nuevos retos.
