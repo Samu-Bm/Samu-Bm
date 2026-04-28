@@ -58,10 +58,10 @@
 ---
 
 ## 🌐 &nbsp;Redes y virtualización
-
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cisco,virtualbox" />
 </p>
+
 
 ---
 
