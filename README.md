@@ -1,10 +1,8 @@
 <div>
 🔴🟡🟢
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7A7ADB&center=true&vCenter=true&width=600&lines=Hola+👋+soy+Samuel;Bienvenido+a+mi+perfil+de+GitHub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hola+👋+soy+Samuel;Bienvenido+a+mi+perfil+de+GitHub" alt="Typing SVG" />
 </h1>
-<br>
-
 </div>
 
 <p align="center">
