@@ -21,7 +21,7 @@
   - 🎓 He estudiado **SMR (Sistemas Microinformáticos y Redes)** en el **IES Siberia Extremeña**.
   - 🌱 Actualmente sigo estudiando y aprendiendo nuevas tecnologías.
   - 💻 Me interesa la **programación** y planeo estudiarla en profundidad.
-  - 🎨 Me apasiona el **diseño gráfico** y la edición de foto y vídeo (Photoshop y Canva).
+  - 🎨 Me apasiona el **diseño gráfico** y la edición de foto y vídeo.
   - 🚀 Siempre con ganas de mejorar mis habilidades y afrontar nuevos retos.
 
 </div>
