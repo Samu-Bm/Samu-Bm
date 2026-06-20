@@ -40,7 +40,6 @@
 
   ## 📚 &nbsp;Estudiando actualmente
 
-  - Diseño de aplicaciones web (DAW)
   - Administración de sistemas Linux
   - Fundamentos de redes
   - Aprendizaje continuo en IT
