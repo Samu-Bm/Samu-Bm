@@ -92,7 +92,8 @@
 <a href="https://www.linkedin.com/in/samuel-burgue%C3%B1o-818668406/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Samuel_Burgueño-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+<br>
+</br>
 
 <a href="https://github.com/Samu-Bm" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-Samu--Bm-181717?style=for-the-badge&logo=github" />
