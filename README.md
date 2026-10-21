@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/terminal_samu-bm.svg" alt="Terminal de Samu-Bm" width="600" />
+  <img src="terminal_samu-bm.svg" alt="Terminal de Samu-Bm" width="600" />
 </p>
 
 <div align="center">
