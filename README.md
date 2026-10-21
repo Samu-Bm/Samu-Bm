@@ -6,8 +6,6 @@
 
 ---
 
-<div align="center">
-
 **Estudiante de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**
 
 Interesado en el desarrollo web frontend y backend, bases de datos, sistemas Linux y diseño gráfico.
