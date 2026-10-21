@@ -4,6 +4,10 @@
 </h1>
 </div>
 
+<p align="center">
+  <img src="assets/terminal_samu-bm.svg" alt="Terminal de Samu-Bm" width="600" />
+</p>
+
 <div align="center">
 
 **Estudiante de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**
