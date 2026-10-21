@@ -27,10 +27,6 @@ Interesado en el desarrollo web frontend y backend, bases de datos, sistemas Lin
 
 </div>
 
-## 🎯 &nbsp;Objetivo profesional
-
-Acabo de empezar el Grado Superior en DAW (primer año) y estoy centrado en construir una base sólida como desarrollador. Este repositorio es también mi **portfolio**, donde iré subiendo los proyectos que desarrolle durante el ciclo y por mi cuenta a medida que avance.
-
 ## 🛠️ &nbsp;Sistemas operativos
 
 <div align="left">
