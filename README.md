@@ -4,7 +4,7 @@
 </h1>
 </div>
 
----
+<div align="center">
 
 **Estudiante de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**
 
@@ -29,13 +29,9 @@ Interesado en el desarrollo web frontend y backend, bases de datos, sistemas Lin
 
 </div>
 
----
-
 ## 🎯 &nbsp;Objetivo profesional
 
 Acabo de empezar el Grado Superior en DAW (primer año) y estoy centrado en construir una base sólida como desarrollador. Este repositorio es también mi **portfolio**, donde iré subiendo los proyectos que desarrolle durante el ciclo y por mi cuenta a medida que avance.
-
----
 
 ## 🛠️ &nbsp;Sistemas operativos
 
@@ -48,8 +44,6 @@ Acabo de empezar el Grado Superior en DAW (primer año) y estoy centrado en cons
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
 </div>
-
----
 
 ## 💻 &nbsp;Stack tecnológico
 
@@ -69,8 +63,6 @@ Acabo de empezar el Grado Superior en DAW (primer año) y estoy centrado en cons
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
----
-
 ## 🧰 &nbsp;Herramientas
 
 <div align="left">
@@ -78,8 +70,6 @@ Acabo de empezar el Grado Superior en DAW (primer año) y estoy centrado en cons
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
-
----
 
 ## 🎨 &nbsp;Diseño y edición
 
@@ -94,8 +84,6 @@ Acabo de empezar el Grado Superior en DAW (primer año) y estoy centrado en cons
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Samu-Bm&color=0e75b6&style=flat" alt="Visitas al perfil" />
