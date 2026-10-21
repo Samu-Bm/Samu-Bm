@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hola+👋+soy+Samuel;Desarrollador+Web+💻;Bienvenido+a+mi+portfolio" alt="Typing SVG" />
 </h1>
 </div>
-
-<p align="center">
-  <img src="terminal_samu-bm.svg" alt="Terminal de Samu-Bm" width="600" />
-</p>
-
 <div align="center">
 
 **Estudiante de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**
@@ -88,6 +83,10 @@ Interesado en el desarrollo web frontend y backend, bases de datos, sistemas Lin
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
+
+<p align="center">
+  <img src="terminal_samu-bm.svg" alt="Terminal de Samu-Bm" width="600" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Samu-Bm&color=D97757&style=flat" alt="Visitas al perfil" />
