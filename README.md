@@ -86,5 +86,5 @@ Interesado en el desarrollo web frontend y backend, bases de datos, sistemas Lin
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samu-Bm&color=0e75b6&style=flat" alt="Visitas al perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Samu-Bm&color=D97757&style=flat" alt="Visitas al perfil" />
 </p>
