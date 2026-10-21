@@ -83,7 +83,7 @@ Interesado en el desarrollo web frontend y backend, bases de datos, sistemas Lin
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
-
+<br>
 <p align="center">
   <img src="terminal_samu-bm.svg" alt="Terminal de Samu-Bm" width="600" />
 </p>
