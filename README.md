@@ -19,13 +19,11 @@ Interesado en el desarrollo web frontend y backend, bases de datos, sistemas Lin
 <div>
 
   ## 🧑‍💻 &nbsp;Sobre mí
-
-  - 👋 Soy **Samuel**, de **Badajoz, España**.
+  
   - 🎓 Cursando el **Grado Superior en Desarrollo de Aplicaciones Web (DAW)** en el **IES Ágora, Cáceres**.
   - 🏫 Anteriormente formado en **SMR (Sistemas Microinformáticos y Redes)** en el IES Siberia Extremeña.
   - 💻 Enfocado en el desarrollo **frontend y backend**, construyendo proyectos propios para mi portfolio.
   - 🎨 Complemento mi perfil con conocimientos de **diseño gráfico** y edición de foto/vídeo.
-  - 🚀 Buscando **prácticas o primeras oportunidades laborales** en el sector del desarrollo web.
 
 </div>
 
