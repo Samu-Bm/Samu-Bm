@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200" role="img" aria-label="Terminal con la presentación de Samu-Bm">
+  <defs>
+    <linearGradient id="bar" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#504b45"/>
+      <stop offset="1" stop-color="#3c3b37"/>
+    </linearGradient>
+    <clipPath id="win"><rect width="600" height="200" rx="8"/></clipPath>
+
+    <clipPath id="c1"><rect class="t" style="animation:type 1.2s steps(24) .3s both" x="24" y="48" width="215" height="20"/></clipPath>
+    <clipPath id="c2"><rect class="t" style="animation:type .5s steps(32) 1.6s both" x="24" y="70" width="274" height="20"/></clipPath>
+    <clipPath id="c3"><rect class="t" style="animation:type 1.55s steps(31) 2.3s both" x="24" y="102" width="270" height="20"/></clipPath>
+    <clipPath id="c4"><rect class="t" style="animation:type .7s steps(60) 4.05s both" x="24" y="124" width="510" height="20"/></clipPath>
+    <clipPath id="c5"><rect class="t" style="animation:type .8s steps(18) 5s both" x="24" y="156" width="160" height="20"/></clipPath>
+  </defs>
+
+  <style>
+    @keyframes type { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    .t { transform-box: fill-box; transform-origin: left center; }
+    text { font-family: "Courier New", Courier, "Liberation Mono", monospace; font-size: 14px; fill: #dddddd; }
+    .u { fill: #7eda29; }
+    .l { fill: #4878c0; }
+    .o { fill: #ffffff; font-weight: bold; }
+    .a { fill: #f0a070; }
+    .cur { animation: blink 1s steps(1) 5.8s infinite; opacity: 0; }
+  </style>
+
+  <g clip-path="url(#win)">
+    <rect width="600" height="200" fill="#42092b"/>
+    <rect width="600" height="28" fill="url(#bar)"/>
+    <text x="300" y="19" text-anchor="middle" style="fill:#d5d0ce;font-size:13px">Samu-Bm@github: ~</text>
+    <circle cx="500" cy="14" r="6" fill="#7d7871"/>
+    <circle cx="520" cy="14" r="6" fill="#7d7871"/>
+    <circle cx="540" cy="14" r="6" fill="#de4c12"/>
+    <rect x="496" y="13" width="8" height="2" fill="#000" opacity=".6"/>
+    <rect x="516.5" y="10.5" width="7" height="7" fill="none" stroke="#000" stroke-width="1.3" opacity=".6"/>
+    <path d="M537 11l6 6M543 11l-6 6" stroke="#000" stroke-width="1.4" opacity=".6"/>
+
+    <text x="24" y="62" clip-path="url(#c1)" xml:space="preserve"><tspan class="u">Samu-Bm@github</tspan>:<tspan class="l">~</tspan>$ whoami</text>
+    <text x="24" y="84" class="o" clip-path="url(#c2)">Samuel — Desarrollador Web (DAW)</text>
+
+    <text x="24" y="116" clip-path="url(#c3)" xml:space="preserve"><tspan class="u">Samu-Bm@github</tspan>:<tspan class="l">~</tspan>$ cat stack.txt</text>
+    <text x="24" y="138" class="a" clip-path="url(#c4)">HTML · CSS · JavaScript · Java · PHP · MySQL · Python · Bash</text>
+
+    <text x="24" y="170" clip-path="url(#c5)" xml:space="preserve"><tspan class="u">Samu-Bm@github</tspan>:<tspan class="l">~</tspan>$ </text>
+    <rect class="cur" x="176" y="158" width="9" height="16" fill="#dddddd"/>
+  </g>
+</svg>
